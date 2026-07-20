@@ -11,7 +11,7 @@ Este repositório contém o projeto final de Aprendizado de Máquina focado na p
 
 ## 🔗 Links Principais
 * **Link do Vídeo de Apresentação:** [link video]
-* **Abrir Notebook no Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Tyxiel/projeto-final-fia/blob/main/Projeto_Final_FIA.ipynb)
+* **Abrir Notebook no Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tyxiel/projeto-final-fia/blob/main/Projeto_Final_FIA.ipynb)
 
 ---
 
