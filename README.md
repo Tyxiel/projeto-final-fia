@@ -10,7 +10,7 @@ Este repositório contém o projeto final de Aprendizado de Máquina focado na p
 ---
 
 ## 🔗 Links Principais
-* **Link do Vídeo de Apresentação:** [link video]
+* **Link do Vídeo de Apresentação:** https://drive.google.com/file/d/1yFG2C_WQGgIPDySj8PCAoXzNEnG3iA5r/
 * **Abrir Notebook no Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tyxiel/projeto-final-fia/blob/main/Projeto_Final_FIA.ipynb)
 
 ---
