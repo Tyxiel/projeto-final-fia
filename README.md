@@ -23,4 +23,4 @@ Este repositório contém o projeto final de Aprendizado de Máquina focado na p
 ---
 
 ## 🤖 Declaração de Uso de Ferramentas de Inteligência Artificial
-Declaramos que utilizamos apoio do ChatGPT/Gemini para auxílio na estruturação das tabelas em Markdown e sintaxe de plotagem de gráficos via Seaborn. Todos os códigos foram executados, testados e validados tecnicamente pela equipe.
+Declaramos que utilizamos apoio do Gemini para auxílio na estruturação das tabelas em Markdown e sintaxe de plotagem de gráficos via Seaborn. Todos os códigos foram executados, testados e validados tecnicamente pela equipe.
